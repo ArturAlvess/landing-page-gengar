@@ -1,1 +1,1 @@
-# landing-page-pikachu
+# landing-page-gengar
